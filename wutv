@@ -1,0 +1,7 @@
+echo "# Wiio" >> README.md 
+git init 
+git add README.md 
+git commit -m "erstes Commit" 
+git branch -M main 
+git remote add origin git@github.com:wudinitv/Wiio.git
+ git push -u origin main
